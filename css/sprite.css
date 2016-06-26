@@ -1,0 +1,8 @@
+.arrow, .shoping-car, .plus, .check-mark, .check-mark-small
+{ display: inline-block; background: url('..//images/sprite.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.arrow { background-position: -0px -0px; width: 26px; height: 10px; }
+.shoping-car { background-position: -0px -10px; width: 24px; height: 21px; }
+.plus { background-position: -0px -31px; width: 18px; height: 18px; }
+.check-mark { background-position: -0px -49px; width: 15px; height: 11px; }
+.check-mark-small { background-position: -15px -49px; width: 11px; height: 8px; }
